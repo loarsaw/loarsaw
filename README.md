@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman Ahmed
+
 - 👀 I’m interested in React and React Native
 - 🌱 I’m currently learning React VR
 - 💞️ I’m looking to collaborate on React Projects
