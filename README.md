@@ -11,7 +11,7 @@ and so does C++—that is if we are not stuck in the 90s.
 
 ### Recommended Resource for Modern C++
 Use this: [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
-
+and this: [C++](https://github.com/tanc7/cppcrashcourse)
 ---
 
 <font face="Courier New" color="green" size="5">Happy whatever!</font>
